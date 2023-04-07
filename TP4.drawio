@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T17:25:26.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Zw_QwiT5imDbzpt6ZcsP" version="21.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-07T19:41:26.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xibqCAotYHO7PHoUfdsy" version="21.1.4" type="github" pages="2">
   <diagram name="Sherwin" id="-7APqkKBxGGa0uES_Ne3">
     <mxGraphModel dx="3275" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,8 +395,8 @@
         <mxCell id="3RJo5sdf2-zOXnr7siss-7" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Bill&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;PK&lt;/b&gt; idBill&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;dateBill&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;dueDate&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;/total&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;isPaid&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="-250" y="-160" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3RJo5sdf2-zOXnr7siss-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/distance&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;/fee&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;odometerStart&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;odometerEnd&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="-130" width="100" height="100" as="geometry" />
+        <mxCell id="3RJo5sdf2-zOXnr7siss-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/fee&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;odometerStart&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;odometerEnd&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="-110" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="J1ZWch1vj42ntNgL-vWM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="1" source="J1ZWch1vj42ntNgL-vWM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -485,7 +485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m2rFjFg3t929gNoy3GP_-12" value="Entité faible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-170" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="-170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m2rFjFg3t929gNoy3GP_-14" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Reservation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;b&gt;PK&lt;/b&gt;&amp;nbsp;reservedPeriod (partial)&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;requirements&lt;/span&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="130" width="180" height="90" as="geometry" />
